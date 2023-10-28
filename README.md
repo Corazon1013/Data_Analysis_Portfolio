@@ -10,7 +10,7 @@ As a data analyst, I am always looking for opportunities to expand my knowledge 
 
 ## Table of Contents
 
-- [About](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#about)
+- [About](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#about)
 - [Portfolio Project](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#portfolio-project)
     - Python
       - [Bike Sharing Analysis]()
