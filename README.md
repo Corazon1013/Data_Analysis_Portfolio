@@ -19,7 +19,7 @@ As a data analyst, I am always looking for opportunities to expand my knowledge 
 
 - [Education](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#education)
 - [Certifacates](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/blob/README.md#contact)
+- [Contact](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#contact)
 
 ## Portfolio Project
 
