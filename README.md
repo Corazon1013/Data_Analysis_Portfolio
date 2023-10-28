@@ -11,15 +11,15 @@ As a data analyst, I am always looking for opportunities to expand my knowledge 
 ## Table of Contents
 
 - [About](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#about)
-- [Portfolio Project](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#portfolio-project)
+- [Portfolio Project](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#portfolio-project)
     - Python
-      - [Bike Sharing Analysis]()
-      - [Netflix Analysis]()
+      - [Bike Sharing Analysis](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#bike-sharing-analysis)
+      - [Netflix Analysis](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#netflix-analysis)
     - Tableau -> [My Tableau Dashboard](https://public.tableau.com/app/profile/dimas.tejone.fani/vizzes)
 
-- [Education](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#education)
-- [Certifacates](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#certificates)
-- [Contact](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/main/README.md#contact)
+- [Education](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#education)
+- [Certifacates](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/Corazon1013/Data_Analysis_Portfolio/edit/blob/README.md#contact)
 
 ## Portfolio Project
 
