@@ -8,6 +8,8 @@ In my free time, I thrive on exploring the realms of data analysis and continual
 
 As a data analyst, I am always looking for opportunities to expand my knowledge and skills. I am dedicated to unearthing meaningful insights from data, driving data-informed decision-making, and translating complex data into actionable strategies.
 
+My CV: [CV - Dimas Tejone Fani.pdf](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/ce1332ab8fcbc2d0854484f2ae8335b3b461a205/CV%20-%20Dimas%20Tejone%20Fani.pdf)
+
 ## Table of Contents
 
 - [About](https://github.com/Corazon1013/Data_Analysis_Portfolio/blob/main/README.md#about)
